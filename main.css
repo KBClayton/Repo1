@@ -1,0 +1,42 @@
+h1 {
+    font-size: 80px;
+}
+
+p1, p3 {
+    font-size: larger;
+}
+.largeheader {
+    background: #333333;
+    text-align: center;
+    margin: 15px;
+    font: #eee;
+    font-size: 28px;
+
+}
+.container {
+    background-color:#efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    background: beige;
+    padding: 20px 0;
+    margin: 0;
+    width: 1024;
+    float: left;
+}
+
+.main-bio {
+    width: 70%;
+    float: left;
+}
+
+.contact-info {
+    width: 30%;
+    float: left;
+    line-height: 150%
+
+}
+
+#a {
+    font: #d21034;
+}
